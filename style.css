@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,800;1,800&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    color: white;
+letter-spacing: 2px;
+    margin-top: 20px;
+    font-family: 'Montserrat' , sans-serif
+}
